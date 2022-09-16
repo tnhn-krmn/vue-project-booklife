@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "asdasd",
+      "fullname": "asdasd",
+      "password": "09ea2d80d340191390cd74931d78590ef1b48744",
+      "id": 1
+    },
+    {
+      "username": "akaraman",
+      "fullname": "Ahmet Karaman",
+      "password": "09ea2d80d340191390cd74931d78590ef1b48744",
+      "id": 2
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
+}
